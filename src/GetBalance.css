@@ -1,0 +1,25 @@
+/* GetBalance.css */
+.balance-container {
+    margin-top: 20px;
+    text-align: center; /* Center align text */
+  }
+  
+  .balance-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 13px;
+  }
+  
+  .balance-text {
+    font-size: 18px;
+    color: #333; /* Dark text color */
+  }
+  

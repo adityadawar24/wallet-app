@@ -1,0 +1,31 @@
+/* ConnectWallet.css */
+.connect-wallet {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    margin-top: 20px;
+  }
+  
+  .network-select {
+    font-size: 16px;
+    padding: 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .connected-text {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #ffffff; /* White text color for connected text */
+  }
+  
+  .connected-network {
+    color: #ffcc00; /* Yellow text color for connected network */
+    font-weight: bold; /* Bold font for network name */
+  }
+  
+  .connected-account {
+    color: #33cc33; /* Green text color for connected account */
+    font-weight: bold; /* Bold font for account address */
+  }
+  

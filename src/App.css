@@ -1,0 +1,66 @@
+/* App.css */
+body {
+  background-color: #121212; /* Dark background color */
+  color: #ffffff; /* White text color */
+  background-image: url('https://t4.ftcdn.net/jpg/04/51/96/93/360_F_451969390_fwd7fUNbLuQ0125iqpsV98d1u6Jy7GTY.jpg');
+}
+
+header {
+  /* background-color: #333;  Darker background color for header */
+  color: #ffffff; /* White text color */
+  padding: 20px;
+  text-align: center;
+}
+
+.App {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 600px;
+}
+
+/* ConnectWallet.css */
+.connect-wallet {
+  margin-top: 20px;
+}
+
+.network-select {
+  font-size: 16px;
+  padding: 8px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  background-color: #333; /* Dark background color for select */
+  color: #ffffff; /* White text color */
+}
+
+.connected-text {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+/* GetBalance.css */
+.balance-container {
+  margin-top: 20px;
+}
+
+.balance-text {
+  font-size: 16px;
+}
+
+/* TransactionHistory.css */
+.transaction-history-container {
+  margin-top: 20px;
+}
+
+.transaction-history-list {
+  list-style: none;
+  padding: 0;
+}
+
+.transaction-history-item {
+  margin-bottom: 10px;
+}
+
+.transaction-history-item strong {
+  color: #ffcc00; /* Yellow text color for strong tags */
+}
+
